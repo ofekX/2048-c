@@ -1,0 +1,10 @@
+# Compiled files
+*.o
+*.exe
+game2048
+hw1_2048
+
+# Editor files
+.vscode/
+.vs/
+.idea/
